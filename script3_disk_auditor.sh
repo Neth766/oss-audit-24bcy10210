@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3 - Disk and Permission Auditor
-# Name: [Your Name] | Reg: [Your Reg No]
+# Name: Nethaniel Johan Kurian | Reg: 24BCY10210
 # Course: Open Source Software
 
 # directories i want to check
