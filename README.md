@@ -1,4 +1,4 @@
-# oss-audit-[rollnumber]
+# oss-audit-24bcy10210
 
 > VITyarthi | Open Source Software — OSS NGMC Capstone Project
 
@@ -8,9 +8,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Registration Number** | [Your Registration Number] |
-| **Slot** | [Your Slot] |
+| **Student Name** | Nethaniel Johan Kurian |
+| **Registration Number** | 24BCY10210 |
 | **Course** | Open Source Software (OSS NGMC) |
 
 ---
