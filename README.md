@@ -102,8 +102,8 @@ Asks 3 questions interactively, then writes a personalised open-source statement
 ### Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/[your-username]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/Neth766/oss-audit-24bcy10210.git
+cd oss-audit-24bcy10210
 ```
 
 ### Step 2 — Make scripts executable
