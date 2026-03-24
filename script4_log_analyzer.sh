@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4 - Log File Analyzer
-# Name: [Your Name] | Reg: [Your Reg No]
+# Name: Nethaniel Johan Kurian | Reg: 24BCY10210
 # Course: Open Source Software
 # Usage: ./script4_log_analyzer.sh /var/log/syslog error
 
