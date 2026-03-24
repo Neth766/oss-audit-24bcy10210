@@ -10,6 +10,7 @@
 |-------|---------|
 | **Student Name** | Nethaniel Johan Kurian |
 | **Registration Number** | 24BCY10210 |
+| **Slot** | B22 |
 | **Course** | Open Source Software (OSS NGMC) |
 
 ---
